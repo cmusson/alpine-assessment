@@ -1,8 +1,8 @@
-## This is a Vite React application
+# This is a Vite React application
 
-# To run this app, npm i, then npm run dev
+## To run this app, npm i, then npm run dev
 
-# Thank you, enjoy!
+## Thank you, enjoy!
 
 // Your task is to create a users page that displays a list of users and their friends.
 // Example https://www.figma.com/file/5YZSH0SuUe7XaH1PpV8OG1/Example-Page?type=design&node-id=0%3A1&t=tSzaKVfhNDc3Jjgt-1
